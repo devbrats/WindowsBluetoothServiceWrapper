@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsBluetoothService", "WindowsBluetoothService\WindowsBluetoothService.csproj", "{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.UI", "Console.UI\Console.UI.csproj", "{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Debug|x64.Build.0 = Debug|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Release|x64.ActiveCfg = Release|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Release|x64.Build.0 = Release|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF6FA0D9-6676-4C56-BF22-1A7EF42B8527}.Release|x86.Build.0 = Release|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Debug|x64.Build.0 = Debug|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Debug|x86.Build.0 = Debug|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Release|x64.ActiveCfg = Release|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Release|x64.Build.0 = Release|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Release|x86.ActiveCfg = Release|Any CPU
+		{CBBBC4C7-D584-4DD8-AE0C-27684FE29379}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F4AFD94-F9EE-409A-90E8-D2775196E30A}
+	EndGlobalSection
+EndGlobal
